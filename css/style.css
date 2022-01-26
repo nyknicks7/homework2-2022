@@ -88,12 +88,11 @@ span{
     text-shadow: none;
 }
 
-footer{
+footer p{
     text-align: center;
-    background: rgb(0,25,70);
+    background: rgb(62, 0, 70);
     font-size: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
 }
-
