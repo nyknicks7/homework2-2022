@@ -71,6 +71,7 @@ img{
     border-left: 10px #FFFFFF solid;
     border-top: 0px;
     border-right: 0px;
+    
 }
 .yellow p{
     color: #000000;
@@ -80,3 +81,14 @@ img{
     color:#000000;
     text-shadow: 2px 4px #c7e2c7;
 }
+
+span{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-shadow: none;
+}
+
+footer{
+    text-align: center;
+}
+
